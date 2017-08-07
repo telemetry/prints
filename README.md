@@ -1,2 +1,0 @@
-# prints
-Prints by tezjnr

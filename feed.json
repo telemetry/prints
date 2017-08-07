@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "prints-by-tezjnr",
+    "description": "",
+    "home_page_url": "http://github.com/telemetry/prints",
+    "feed_url": "http://github.com/telemetry/prints/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Terry Gillespie"
+    },
+    "items": [
+    ]
+}
