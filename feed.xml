@@ -3,12 +3,24 @@
     <title>prints-by-tezjnr</title>
     <link href="http://tezjnr.com/feed.xml" rel="self" />
     <link href="http://tezjnr.com" />
-    <updated>2017-08-07T15:47:43+10:00</updated>
+    <updated>2017-08-07T15:49:05+10:00</updated>
     <author>
         <name>Terry Gillespie</name>
     </author>
     <id>http://tezjnr.com</id>
 
+    <entry>
+        <title>The Butterfly</title>
+        <author>
+            <name>Terry Gillespie</name>
+        </author>
+        <link href="http://tezjnr.com/the-butterfly.html"/>
+        <id>http://tezjnr.com/the-butterfly.html</id>
+
+        <updated>2017-08-07T15:48:52+10:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>The Speaker</title>
         <author>
