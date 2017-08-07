@@ -18,8 +18,21 @@
             },
             "tags": [
             ],
-            "date_published": "2017-08-07T15:46:45+10:00",
+            "date_published": "2017-08-07T15:47:44+10:00",
             "date_modified": "2017-08-07T15:39:02+10:00"
+        },
+        {
+            "id": "http://tezjnr.com/abcd.html",
+            "url": "http://tezjnr.com/abcd.html",
+            "title": "ABCD",
+            "content_html": "<p>Always be crate digging. Thats what they say.</p>\n<p>Available in A2 unframed size</p>\n<p>Print details:</p>\n<p>12 Color Pigment based arhcival quality prints on&nbsp;<a href=\"https://www.hahnemuehle.com/fileadmin/user_upload/pdf/dfa/Datenblaetter-Oktober2015ff/FineArt_Collection/Datenblatt-PhotoRag308.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">HAHNEM&Uuml;HLE PHOTO RAG 308GSM</a>&nbsp;paper.</p>\n<p>High-Quality 12-Color Pigment Inks with 75 years permanence rating printed on Museum-Quality Hahnem&uuml;hle 100% Cotton Photo Rag Paper, 308gsm.</p>\n<p>&nbsp;</p>",
+            "author": {
+                "name": "Terry Gillespie"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-08-07T15:47:44+10:00",
+            "date_modified": "2017-08-07T15:47:37+10:00"
         }
     ]
 }
