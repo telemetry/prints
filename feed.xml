@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>prints-by-tezjnr</title>
-    <link href="http://github.com/telemetry/prints/feed.xml" rel="self" />
-    <link href="http://github.com/telemetry/prints" />
-    <updated>2017-08-07T15:43:30+10:00</updated>
+    <link href="http://tezjnr.com/feed.xml" rel="self" />
+    <link href="http://tezjnr.com" />
+    <updated>2017-08-07T15:46:45+10:00</updated>
     <author>
         <name>Terry Gillespie</name>
     </author>
-    <id>http://github.com/telemetry/prints</id>
+    <id>http://tezjnr.com</id>
 
     <entry>
         <title>The Speaker</title>
         <author>
             <name>Terry Gillespie</name>
         </author>
-        <link href="http://github.com/telemetry/prints/the-speaker.html"/>
-        <id>http://github.com/telemetry/prints/the-speaker.html</id>
+        <link href="http://tezjnr.com/the-speaker.html"/>
+        <id>http://tezjnr.com/the-speaker.html</id>
 
         <updated>2017-08-07T15:39:02+10:00</updated>
             <summary></summary>
