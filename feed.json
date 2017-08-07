@@ -9,5 +9,17 @@
         "name": "Terry Gillespie"
     },
     "items": [
+        {
+            "id": "http://github.com/telemetry/prints/the-speaker.html",
+            "url": "http://github.com/telemetry/prints/the-speaker.html",
+            "title": "The Speaker",
+            "author": {
+                "name": "Terry Gillespie"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-08-07T15:39:08+10:00",
+            "date_modified": "2017-08-07T15:39:02+10:00"
+        }
     ]
 }
